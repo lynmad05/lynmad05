@@ -24,7 +24,7 @@
 
 ## 📌 Sobre mí
 
-- 🔭 Actualmente estudiando en **Tecsup (3er ciclo)**
+- 🔭 Actualmente estudiando en **Tecsup (4to ciclo)**
 - 🌱 Aprendiendo: MongoDB, PHP (pronto Laravel), Python, Node.js con Express y JavaScript
 - 👩‍💻 Explorando el desarrollo web y backend
 - 💬 Me interesa crear páginas funcionales y bien diseñadas
