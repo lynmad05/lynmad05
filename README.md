@@ -4,7 +4,7 @@
 🎓 Estudiante de Diseño y Desarrollo de Software (4to ciclo)  
 🚀 Apasionada por la tecnología, el diseño y el aprendizaje continuo  
 💡 En constante exploración de nuevas herramientas, lenguajes y buenas prácticas  
-🌐 Actualmente aprendiendo sobre desarrollo web y conceptos básicos de backend  
+🌐 Actualmente aprendiendo sobre desarrollo web, backend y nuevas tecnologías  
 
 ---
 
@@ -16,6 +16,9 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50"/>
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50"/>
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50"/>
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50"/>
 </p>
 
 ---
@@ -25,33 +28,11 @@
 ## 📌 Sobre mí
 
 - 🔭 Actualmente estudiando en **Tecsup (4to ciclo)**
-- 🌱 Aprendiendo: MongoDB, PHP (pronto Laravel), Python, Node.js con Express y JavaScript
-- 👩‍💻 Explorando el desarrollo web y backend
-- 💬 Me interesa crear páginas funcionales y bien diseñadas
+- 🌱 Aprendiendo: Django, React, Kotlin, Git avanzado, Maven, Spring Boot, Arduino, PHP (Laravel), Node.js con Express
+- 👩‍💻 Explorando desarrollo web, backend y aplicaciones móviles
+- 💬 Me interesa crear páginas funcionales, proyectos completos y bien diseñados
 - 📫 Contáctame: **ailynmedina00@gmail.com**
 - ⚡ Dato curioso: *¡Siempre busco nuevas formas de aprender y mejorar! 😄*
-
----
-
-## 🤝 Conecta conmigo
-
-<p align="left">
-  <a href="https://linkedin.com/in/supunnanayakkara" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40"/>
-  </a>
-  <a href="https://fb.com/supun.nanayakkaraii" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/supun___lk" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  <a href="https://www.youtube.com/@supunnanayakkara" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40"/>
-  </a>
-</p>
 
 ---
 
@@ -59,12 +40,13 @@
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,express" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,express,django,maven" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50"/>
 </p>
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ### Bases de Datos
@@ -74,7 +56,9 @@
 
 ### Herramientas
 <p>
-  <img src="https://skillicons.dev/icons?i=github,figma,idea,vscode,bootstrap,jupyter" />
+  <img src="https://skillicons.dev/icons?i=github,figma,idea,vscode,bootstrap,arduino" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse Jakarta" width="50"/>
 </p>
 
 ---
