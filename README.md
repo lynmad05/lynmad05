@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Tecnologías que manejo
+## 🛠️ Tecnologías que estoy aprendiendo a manejar.
 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50"/>
