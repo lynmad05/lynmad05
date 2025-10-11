@@ -1,5 +1,6 @@
 <img src="portada.jpg" alt="Portada de Ailyn Medina" width="100%"/>
-# ¡Hola! 👋🏻 Soy Ailyn Medina <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50"/>
+
+## ¡Hola! 👋🏻 Soy Ailyn Medina <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50"/>
 
 🎓 Estudiante de Diseño y Desarrollo de Software (4to ciclo)  
 🚀 Apasionada por la tecnología, el diseño y el aprendizaje continuo  
