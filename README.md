@@ -59,7 +59,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=github,figma,idea,vscode,bootstrap,arduino" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse Jakarta" width="50"/>
 </p>
 
 ---
