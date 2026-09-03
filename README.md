@@ -2,7 +2,7 @@
 
 ## ¡Hola! 👋🏻 Soy Ailyn Medina <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50"/>
 
-🎓 Estudiante de Diseño y Desarrollo de Software (4to ciclo)  
+🎓 Estudiante de Diseño y Desarrollo de Software (6to ciclo)  
 🚀 Apasionada por la tecnología, el diseño y el aprendizaje continuo  
 💡 En constante exploración de nuevas herramientas, lenguajes y buenas prácticas  
 🌐 Actualmente aprendiendo sobre desarrollo web, backend y nuevas tecnologías  
@@ -61,16 +61,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50"/>
 </p>
 
----
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"/>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
-  <em><b>¡Me encanta conectar con personas nuevas!</b> Si quieres saludar, <b>estaré feliz de conocerte 😊</b></em>
-</p>
-
----
 
 <p align="right">
   Creado con 🧡 por <a href="https://github.com/lynmad05">Ailyn Medina</a>
